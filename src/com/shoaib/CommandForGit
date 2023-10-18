@@ -1,6 +1,7 @@
 check status of changed file    -> git status
 1- Add all changed file         -> git add .
 2- Add particular file          -> git add <fileName>
-3- Check status                 -> git status (if files showing as green that means files have been added)
+3- Check status                 -> git status (if files showing as green that means files have been added means ready to commit)
 4- Then need to commit          -> git commit -m "put here message"
 5- For Pushing the code         -> git push origin <branch name>
+6- For seeing the diff          -> git diff <file path>
